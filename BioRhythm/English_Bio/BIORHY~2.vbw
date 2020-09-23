@@ -1,0 +1,5 @@
+Button = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmTooltip = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+MODULE1 = 0, 0, 0, 0, C
+frmMain = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmChoix = 0, 0, 0, 0, C, 0, 0, 0, 0, C
